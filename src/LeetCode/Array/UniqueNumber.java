@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Array;
 
 public class UniqueNumber {
     public static void main(String[] args) {
